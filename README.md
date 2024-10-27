@@ -1,6 +1,6 @@
 # Large Language Models (LLMs)
 
-Go through all main components of a LLMs system from cratch:
+Go through all main components of a LLMs system from scratch:
 1. **Main components overview** (at LLMs_sys_summary.ipynb)
 2. **Retrieval-Augmented Generation** (RAG):
 
