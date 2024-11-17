@@ -1,0 +1,19 @@
+torch==2.3.0 -f https://download.pytorch.org/whl/torch_stable.html
+numpy
+pandas
+matplotlib
+fitz
+tiktoken
+rank_bm25
+Spacy
+scipy
+sklearn
+transformers
+
+pillow
+langchain
+langchain_core
+langchain_community
+
+
+pytesseract
