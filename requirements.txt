@@ -7,5 +7,5 @@ tiktoken
 rank_bm25
 Spacy
 scipy
-sklearn
+scikit-learn
 transformers
